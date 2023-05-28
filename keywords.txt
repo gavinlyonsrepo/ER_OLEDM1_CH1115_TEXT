@@ -1,0 +1,30 @@
+# -----------------------------------------
+# Syntax colouring for ER_OLEDM1_CH1115 library
+# -----------------------------------------
+
+# Datatypes (such as objects)
+ERMCH1115	KEYWORD1
+
+#Methods / functions
+
+OLEDGotoXY	KEYWORD2
+OLEDChar	KEYWORD2
+OLEDString	KEYWORD2
+OLEDbegin	KEYWORD2
+OLEDinit	KEYWORD2
+OLEDReset	KEYWORD2
+OLEDFillScreen	KEYWORD2
+OLEDFillPage	KEYWORD2
+OLEDBitmap	KEYWORD2
+OLEDEnable	KEYWORD2
+OLEDInvert	KEYWORD2
+OLEDFlip	KEYWORD2
+OLEDContrast	KEYWORD2
+OLEDscroll	KEYWORD2
+OLEDscrollSetup	KEYWORD2
+OLEDfadeEffect	KEYWORD2
+OLEDIssleeping	KEYWORD2
+OLEDPowerDown	KEYWORD2
+
+# Constants
+
